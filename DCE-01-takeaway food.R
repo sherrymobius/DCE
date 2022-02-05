@@ -3,9 +3,6 @@ library(reshape2)
 library(dplyr)
 library(survival)
 library(mlogit)
-library(support.CEs)
-library(Rchoice)
-
 
 
 #1 Design-CEA
